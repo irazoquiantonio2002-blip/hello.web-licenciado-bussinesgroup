@@ -111,7 +111,10 @@ document.addEventListener("DOMContentLoaded", () => {
     "Internacional y Familia",
     "Civil y Penal",
     "Inmobiliario",
-    "Corporativo y Compliance"
+    "Corporativo y Compliance",
+    "Fiscal",
+    "Laboral y Empresarial",
+    "Propiedad Intelectual"
   ];
   let phraseIndex = 0, charIndex = 0, deleting = false;
 

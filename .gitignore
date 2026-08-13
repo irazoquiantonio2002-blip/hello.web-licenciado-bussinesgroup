@@ -1,0 +1,10 @@
+# Environment variables (contienen la API key — nunca se suben)
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+
+# Dependencias (por si se instalan localmente)
+node_modules
